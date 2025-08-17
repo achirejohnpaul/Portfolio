@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+h1, h2, h3 { color: #0a3d62; }
+a { color: #3c40c6; text-decoration: none; }
+a:hover { text-decoration: underline; }
