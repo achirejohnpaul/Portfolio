@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👋 John Doe
+# 👋 Achire John Paul
 **Cybersecurity & IT Professional**  
 
 Welcome to my portfolio!  
