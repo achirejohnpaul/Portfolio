@@ -13,5 +13,5 @@ I am a dedicated Cybersecurity and IT Security professional with hands-on experi
 - Cloud (Oracle Cloud Infrastructure, AWS basics)  
 
 ---
-**LinkedIn:** [linkedin.com/in/username](#)  
-**Email:** john.doe@email.com  
+**LinkedIn:** [linkedin.com/in/achirejohnpaul](#)  
+**Email:** achirejohnpaul@gmail.com 
