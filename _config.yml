@@ -1,5 +1,19 @@
-title: Achire John Paul Portfolio
-description: Cybersecurity & IT Security Professional Portfolio
-theme: minima
-plugins:
-  - jekyll-feed
+title: "[Your Name] – Cybersecurity Portfolio"
+description: "Cybersecurity & IT Security Specialist | SOC | System & Web Developer"
+theme: jekyll-theme-minimal
+
+# Site links
+author:
+  name: "Achire John Paul"
+  email: "achirejohnpaul@gmail.com"
+  linkedin: "https://linkedin.com/in/achirejohnpaul"
+  github: "https://github.com/achirejohnpaul"
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Projects"
+    url: /projects
