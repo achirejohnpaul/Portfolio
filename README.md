@@ -26,6 +26,6 @@ My focus areas include **penetration testing, threat hunting, SOC operations, in
 ---
 
 ## 📂 Explore More
-This repository powers my GitHub Pages site: [View My Portfolio Website](https://yourusername.github.io/)  
+This repository powers my GitHub Pages site: [View My Portfolio Website](https://achirejohnpaul.github.io/)  
 
 ---
